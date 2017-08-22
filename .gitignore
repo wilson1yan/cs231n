@@ -1,1 +1,7 @@
 cifar-10-batches-py
+coco-captioning/
+*.npz
+squeezenet.ckpt.data-00000-of-00001
+squeezenet.ckpt.index
+squeezenet.ckpt.meta
+
